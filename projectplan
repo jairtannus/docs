@@ -1,0 +1,57 @@
+[//]: <Notes> (Remember: Who What When Where How)
+
+# [Name of Project] Project Plan
+
+## Brief Program Description
+
+[//]: <Notes> (Provide context. What are we working on? Keep it concise. One sentence if possible.)
+
+
+## Project Goal
+
+[//]: <Notes> (Why are we working on this?)
+
+* **Long Term (Mission Orientated):** Add 1-3 sentences here.
+* **Short Term (Action Orientated):** Add 1-3 sentences about the general scope.
+* **Tasks:**
+    1. [ ] Insert actionable steps with an assigned person to each task and [link to Github Issue](https://) here.
+
+## Project Milestones
+
+[//]: <Notes> (What does it mean for this project to be successful/finished for this term?)
+
+1. Milestone 1 - Add description here.
+2. Milestone 2 - Add description here.
+
+## Deadlines or Timelines
+
+[//]: <Notes> (Avoid arbitrary dates. Define a goal or reason for this to move towards.)
+
+## Project Owners
+
+[//]: <Notes> (State people involved in the project and define responsibilities early on. At minimum, always establish a Lead, Reviewer, and Approver.)
+
+1. Name (Lead): Responsibilities
+1. Name (Approver): Responsibilities
+1. Name (Role): Responsibilities
+
+
+## Working Docs
+
+[//]: <Notes> (This should list every shared doc and Github Issues throughout the project so we don't lose track)
+
+- [Insert link to document here.](https:// "title")
+- [Insert Github Issue here.](https:// "title")
+
+## Notes
+
+[//]: <Notes> (Every meeting should have notes to asynchronously up to date everyone. Update and link Github Issues when possible.)
+
+#### MM/DD/YEAR Meeting Notes
+
+* Insert notes here.
+
+## Open Questions
+[//]: <Notes> (Questions pulled from notes that should be addressed throughout the project, especially when stuck. Reference at the end of the project. Were these answered?)
+
+1. Insert question here.
